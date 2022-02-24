@@ -1,0 +1,102 @@
+A{
+	<li><img src="img/akame.jpg"><br> <br> <h4>Akame ga Kill!</h4></li>
+	<li><img src="img/akhasic.jpg"/><br> <br><h4>Akashic Records of Magic Instructor</h4></li>
+	<li><img src="img/akudama.jpg"/><br> <br><h4>Akudama Drive</4></li>
+	<li><img src="img/attack on titan.jpg"><br><br><h4>Attack on Titan</h4></li>
+}
+B{
+	<li><img src="img/bleach.jpg"><br> <br> <h4>Bleach</h4></li>
+	<li><img src="img/banana fish.jpg"/><br><br><h4>Banana Fish</4></li>
+    	<li><img src="img/blue period.jpg"><br><br><h4>Blue Period</h4></li>
+	<li><img src="img/bakuten.jpg"/><br> <br><h4>Bakuten</4></li>
+	<li><img src="img/boruto.jpg"><br> <br> <h4>Boruto: Naruto next Generations</h4></li>
+	<li><img src="img/boku no hero.jpg"><br> <br> <h4>Boku no Hero Academia</h4></li>
+	<li><img src="img/beastars.jpg"><br> <br> <h4>Beastars</h4></li>
+}
+C{
+	<li><img src="img/castlevania.jpg"><br> <br> <h4>CastleVania</h4></li>
+	<li><img src="img/charlotte.jpg.opdownload"><br> <br> <h4>Charlotte</h4></li>
+}
+D{
+	<li><img src="img/darling.jpg"/><br><br><h4>Darling in the Franxx</4></li>
+	<li><img src="img/dr stone.jpg"><br><br><h4> Dr. Stone</h4></li>
+}
+E{}
+F{
+	<li><img src="img/fullmetal.jpg"><br> <br> <h4>Full Metal Alchemist: Brotherhood</h4></li>
+	<li><img src="img/free.jpg"><br> <br> <h4>free!</h4></li>
+}
+G{
+	<li><img src="img/girlfriend.jpg"><br> <br> <h4>Girlfriend, Girlfriend!</h4></li>
+	<li><img src="img/given.webp"><br><br><h4>Given</h4></li>
+}
+H{
+	<li><img src="img/hunter.jpg"><br> <br> <h4>Hunter x Hunter</h4></li>
+	<li><img src="img/horimiya.jfif"><br> <br> <h4>Horimiya</h4></li>
+	<li><img src="img/haikyuu.jpg"><br> <br> <h4>Haikyuu!</h4></li>
+	<li><img src="img/hakurana receive.jpg"><br> <br> <h4>Hakurana Receive</h4></li>
+	<li><img src="img/umaru chan.jpg"><br> <br> <h4>Himouto! Umaru-chan</h4></li>
+	<li><img src="img/houseki.jpg"><br> <br> <h4> Houseki no Kuni</h4></li>
+}
+I{
+	<li><img src="img/nagatoro.webp"/><br> <br><h4>Ijiranaide, Nagatoro-san</4></li>
+	<li><img src="img/ID-0.jpg"><br><br><h4>ID - 0</h4></li>
+}
+J{
+	 <li><img src="img/jojo.png"><br> <br> <h4>Jojo's Bizzare Adventure</h4></li>
+	 <li><img src="img/jujutsu.jpg"><br> <br> <h4>Jujutsu Kaisen</h4></li>
+}
+K{
+	<li><img src="img/kaguya sama.jpg"><br> <br> <h4>Kaguya-sama: Love is War!</h4></li>
+	<li><img src="img/kobayashi san.jpg"/><br> <br><h4>Kobayashi-san Chi no Maid Dragon</h4></li>
+	<li><img src="img/kuroko's basket.jpg"><br> <br> <h4>Kuroko's no basket</h4></li>
+	<li><img src="img/konosuba.jpg"><br> <br> <h4>Konosuba</h4></li>
+
+}
+L{}
+M{
+	<li><img src="img/miraculous.png"><br> <br> <h4>Miraculous</h4></li>
+
+}
+N{
+	<li><img src="img/nanatsu.jpg"><br> <br> <h4>Nanatsu no Taizai</h4></li>
+	<li><img src="img/naruto shippuden.jpg"><br> <br> <h4>Naruto Shippuden</h4></li>
+	<li><img src="img/no game.jpg"><br> <br><h4>No Game no Life</h4></li>
+}
+O{
+	<li><img src="img/one punch man.jpg"><br> <br> <h4>One Punch Man</h4></li>
+	<li><img src="img/oshi.jpg"><br> <br> <h4>Oshi ga Budoukan Ittekuretara Shinu</h4></li>
+	<li><img src="img/one piece.png"><br> <br> <h4>One Piece</h4></li>
+	<li><img src="img/otome.jpg"><br> <br> <h4>Otome Game no Hametsu...</h4></li>
+	
+}
+P{
+	<li><img src="img/pokemon.jpg"/><br> <br><h4>Pokémon</4></li>
+}
+Q{}
+R{
+	<li><img src="img/re zero.png"><br><br><h4>Re: Zero</h4></li>
+}
+S{
+	<li><img src="img/sk8.jpeg"><br> <br> <h4>SK8 the Infinity</h4></li>
+	<li><img src="img/super onze.jpg"><br> <br> <h4>Super Onze</h4></li>
+	<li><img src="img/SAO.jpg"><br> <br> <h4>Sword Art Online</h4></li>
+}
+T{
+	<li><img src="img/tokyo ghoul.jpg"/><br> <br><h4>Tokyo Ghoul</4></li>
+	<li><img src="img/tonikawa.jpg"><br> <br> <h4>Tonikaku Kawaii</h4></li>
+	<li><img src="img/tokyo revengers.jpg"/><br> <br><h4>Tokyo Revengers</4></li>
+	<li><img src="img/destiny.jpg"/><br> <br><h4>Takt Op. Destiny</h4></li>
+}
+U{}
+V{
+	<li><img src="img/Vanitas.jpg"><br> <br> <h4>Vanitas no Carte</h4></li>
+}
+W{
+	<li><img src="img/wonder egg.png"><br><br><h4>Wonder Egg Priority</h4></li>
+}
+X{}
+Y{
+	<li><img src="img/yuri on icxe.jpeg"><br> <br> <h4>Yuri!!! On Ice</h4></li>
+}
+Z{}
